@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView
 class MainActivity : AppCompatActivity() {
     private val items = listOf("Moses Msukwa 1","Moses Msukwa 2","Moses Msukwa 3","Moses Msukwa 4",
         "Moses Msukwa 5","Moses Msukwa 6","Moses Msukwa 7","Moses Msukwa 8","Moses Msukwa 9","Moses Msukwa 1","Moses Msukwa 2","Moses Msukwa 3","Moses Msukwa 4",
-        "Moses Msukwa 5","Moses Msukwa 6","Moses Msukwa 7","Moses Msukwa 8","Moses Msukwa 9")
+        "Moses Msukwa 5","Moses Msukwa 6","Moses Msukwa 7","Moses Msukwa 8","Moses Msukwa 9","Final")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
